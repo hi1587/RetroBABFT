@@ -1,6 +1,9 @@
 # RetroBABFT Script
 An script for Retro Studio Build A Boat For Treasure.
 
+> [!IMPORTANT]
+> This script has been discontinued and will no longer get updates. The project will be open source for everyone.
+
 **Script:**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hi1587/RetroBABFT/main/main.lua"))()
